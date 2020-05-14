@@ -1,2 +1,2 @@
 msg = "Hello World"
-print(msg.count(msg))
+print(msg.capitalize())
